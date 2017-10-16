@@ -1,0 +1,14 @@
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\PrestaMe\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe.config
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe.config
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.pdb
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.dll
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Properties.Resources.resources
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.GenerateResource.Cache
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe
+C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.pdb
+C:\Users\DanyPC\Desktop\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe.config
+C:\Users\DanyPC\Desktop\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe
+C:\Users\DanyPC\Desktop\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.pdb

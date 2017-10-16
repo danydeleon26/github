@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrestaMe.Windows", "Sources\User Interfaces\windows\PrestaMe.Windows\PrestaMe.Windows.csproj", "{FE30034B-94B2-4CBC-8A0A-F995DD84DE42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrestaMe.Layers", "Sources\Layers\PrestaMe.Layers.csproj", "{209EC8E8-7D95-4B26-93EA-A2E0CA2170A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layers", "Layers", "{2B2AA206-788F-4C80-A76B-26C1356B8307}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "User Interfaces", "User Interfaces", "{5E6849E2-EFC2-4B18-8294-FD36294E2C1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows", "Windows", "{3F813184-D030-4EE1-A2AE-43ECA745988C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE30034B-94B2-4CBC-8A0A-F995DD84DE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE30034B-94B2-4CBC-8A0A-F995DD84DE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE30034B-94B2-4CBC-8A0A-F995DD84DE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE30034B-94B2-4CBC-8A0A-F995DD84DE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209EC8E8-7D95-4B26-93EA-A2E0CA2170A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209EC8E8-7D95-4B26-93EA-A2E0CA2170A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209EC8E8-7D95-4B26-93EA-A2E0CA2170A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209EC8E8-7D95-4B26-93EA-A2E0CA2170A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE30034B-94B2-4CBC-8A0A-F995DD84DE42} = {5E6849E2-EFC2-4B18-8294-FD36294E2C1F}
+		{209EC8E8-7D95-4B26-93EA-A2E0CA2170A2} = {2B2AA206-788F-4C80-A76B-26C1356B8307}
+		{3F813184-D030-4EE1-A2AE-43ECA745988C} = {5E6849E2-EFC2-4B18-8294-FD36294E2C1F}
+	EndGlobalSection
+EndGlobal
