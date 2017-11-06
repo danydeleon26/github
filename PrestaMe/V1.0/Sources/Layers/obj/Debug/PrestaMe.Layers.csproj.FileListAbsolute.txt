@@ -3,3 +3,8 @@ C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\Layers
 C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csprojResolveAssemblyReference.cache
 C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.dll
 C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.pdb
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csprojResolveAssemblyReference.cache
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.dll
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.pdb
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.dll
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.pdb

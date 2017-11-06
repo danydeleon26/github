@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PrestaMe.Layers.Application.ClassAplication" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EICACAQgAhAQKgAAEAAACAAIAAICEACAEQAAiQFBCAA=</HashCode>
+      <FileName>Application\ClassAplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrestaMe.Layers.Business.ClassBusiness" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\ClassBusiness.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrestaMe.Layers.Class1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrestaMe.Layers.Data.ClassData" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\ClassData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrestaMe.Layers.Infraestructure.ClassInfraestructure" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infraestructure\ClassInfraestructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrestaMe.Layers.Interfaces.ClassInterfaces" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ClassInterfaces.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrestaMe.Layers.Presentation.ClassPresentation" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentation\ClassPresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrestaMe.Layers.Security.ClassSecurity" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Security\ClassSecurity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

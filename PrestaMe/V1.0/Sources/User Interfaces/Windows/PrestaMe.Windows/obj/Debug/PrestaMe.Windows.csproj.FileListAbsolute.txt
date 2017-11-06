@@ -12,3 +12,19 @@ C:\Users\Abraham Vargas\Desktop\insideDev.technolgy\PrestaMe\V1.0\Sources\User I
 C:\Users\DanyPC\Desktop\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe.config
 C:\Users\DanyPC\Desktop\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe
 C:\Users\DanyPC\Desktop\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.pdb
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.pdb
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csprojResolveAssemblyReference.cache
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.formSplash.resources
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Properties.Resources.resources
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.GenerateResource.Cache
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe.licenses
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.pdb
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.dll
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.dll
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\TelerikCommon.dll
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.xml
+C:\Users\DanyPC\Desktop\La real carpeta manito\PrestaMe\PrestaMe\V1.0\Sources\User Interfaces\windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.xml
