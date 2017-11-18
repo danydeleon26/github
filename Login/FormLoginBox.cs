@@ -35,7 +35,7 @@ namespace Login
                         break;
                     default:
                         break;
-                }  
+                }
             }
             else // Si tenemos conexion a la base de datos, precedemos.
             {
@@ -53,7 +53,7 @@ namespace Login
                                 CommandType = CommandType.Text,
                                 CommandText = "SELECT COUNT(*) FROM DatosLogin WHERE user='" + textBoxUsername.Text + "' AND password='" + textBoxPassword.Text + "' "
                             };
-                            
+
                             Program.mssqlConn.Open(); // Abrimos conexion.
 
                             using (SqlDataReader reader = cmd.ExecuteReader()) // Ejecutamos comando de login
@@ -65,9 +65,11 @@ namespace Login
                             }
 
                             Program.mssqlConn.Close(); // Luego de cada query lo correcto es cerrar la conexion a la base de datos.
-                        } catch(Exception ex)
+                        }
+                        catch (Exception ex)
                         {
-                            // Si hay un error del sistema no lo mostramos.
+                            // Si hay un error del sistema lo mostramos.
+                            MessageBox.Show(Convert.ToString(ex), "Error");
                         }
                         // Verificamos si el login es correcto o no.
                         if (loginSuccess)

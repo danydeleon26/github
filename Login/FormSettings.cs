@@ -23,22 +23,32 @@ namespace Login
 
         private void Form_Settings_Load(object sender, EventArgs e) // Queremos buscar los servidores cuando la pantalla cargue.
         {
-            this.BeginInvoke(new Action(()=>{
+            Task.Factory.StartNew(new Action(() =>
+            {
                 toolStripStatusLabel_Status.Text = "Buscando servidores, por favor espere...";
                 DataTable dataTable = SmoApplication.EnumAvailableSqlServers(false); // Buscamos todos los servidores.
                 // Rows contiene la lista de servidores
                 if (dataTable.Rows.Count > 0) // Si encontramos servidores procedemos a listarlos
                 {
-                    // Por cada servidor encontrado lo agreamos al ComboBox de servidores
-                    foreach (DataRow server in dataTable.Rows)
+                    try
                     {
-                        comboBox_MSSQLServers.Items.Add(server.ItemArray[0] as string); // El nombre del servidor esta alojado en la posicion 0 de ItemArray
+                        // Por cada servidor encontrado lo agreamos al ComboBox de servidores
+                        foreach (DataRow server in dataTable.Rows)
+                        {
+                            comboBox_MSSQLServers.BeginInvoke(new Action(delegate ()
+                            {
+                                comboBox_MSSQLServers.Items.Add(server.ItemArray[0] as string); // El nombre del servidor esta alojado en la posicion 0 de ItemArray
+                            }));
+                        }
+                        // Habilitamos las listas.
+                        comboBox_MSSQLServers.BeginInvoke(new Action(delegate ()
+                        {
+                            comboBox_MSSQLServers.SelectedIndex = 0;
+                        }));
                     }
-                    // Habilitamos las listas.
-                    comboBox_MSSQLServers.BeginInvoke(new Action(delegate ()
-                    {
-                        comboBox_MSSQLServers.SelectedIndex = 0;
-                    }));
+                    catch (Exception error) {
+                        Console.WriteLine(error.Message);
+                    }
                 }
                 toolStripStatusLabel_Status.Text = ""; // Limpiamos la barra de estado.
             }));

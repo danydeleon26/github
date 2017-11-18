@@ -8,7 +8,6 @@ C:\Users\DanyPC\Desktop\insidedev.technology\Login\Login\bin\Debug\Microsoft.Sql
 C:\Users\DanyPC\Desktop\insidedev.technology\Login\Login\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
 C:\Users\DanyPC\Desktop\insidedev.technology\Login\Login\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
 C:\Users\DanyPC\Desktop\insidedev.technology\Login\Login\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
-C:\Users\DanyPC\Desktop\insidedev.technology\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
 C:\Users\DanyPC\Desktop\insidedev.technology\Login\Login\obj\Debug\Login.Form_LoginBox.resources
 C:\Users\DanyPC\Desktop\insidedev.technology\Login\Login\obj\Debug\Login.Form_Settings.resources
 C:\Users\DanyPC\Desktop\insidedev.technology\Login\Login\obj\Debug\Login.Properties.Resources.resources
